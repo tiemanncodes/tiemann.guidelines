@@ -48,27 +48,6 @@ The goal is to demonstrate that high-quality annotation depends on **meaning**, 
 
 ---
 
-## 🗂️ Repository Structure
-guideline-analysis/
-│
-├── cases/
-│ ├── case-01-ambiguous-health-query.md
-│ ├── case-02-spam.md
-│ ├── case-03-harmful-content.md
-│ ├── case-04-relevance.md
-│ └── case-05-multilingual-ambiguity.md
-│
-├── categories/
-│ ├── annotation-dimensions.md
-│ ├── spam-and-deception.md
-│ ├── harmful-content.md
-│ ├── relevance-and-intent.md
-│ └── multilingual-considerations.md
-│
-└── methodology.md
-
----
-
 ## ⚙️ Annotation Framework
 
 Each case follows a structured evaluation model:
